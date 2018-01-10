@@ -16,7 +16,7 @@ class App extends Component {
           <MessagesList />
         </div>
       </div>
-    );
+    )
   }
 }
 
